@@ -1,4 +1,4 @@
 # A simple Javascript CCalculator
 
-(public/one.png)
-(public/two.png)
+![Landing Page](public/one.png)
+![Calculation](public/two.png)
